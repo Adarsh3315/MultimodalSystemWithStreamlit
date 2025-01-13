@@ -1,0 +1,16 @@
+python -m pip install --upgrade pip
+pip install numpy
+pip install pandas
+pip install pillow
+pip install torch
+pip install transformers
+pip install opencv-python
+pip install mediapipe
+pip install screen-brightness-control
+pip install yfinance
+pip install googletrans==4.0.0-rc1
+pip install deepface
+pip install retinaface
+pip install streamlit
+pip install streamlit-lottie
+pip install tf-keras
