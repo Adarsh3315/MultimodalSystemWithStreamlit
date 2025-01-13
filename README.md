@@ -1,6 +1,3 @@
-Here’s a detailed `README.md` for your `Multimodal.py` project, including how to run the code and the dependencies required:
-
-```markdown
 # Multimodal System
 
 Welcome to the **Multimodal System** developed by **A&J**. This platform provides a variety of functionalities, including:
